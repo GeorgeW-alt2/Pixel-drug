@@ -1,1 +1,1 @@
-A drug that makes you look at IR pixels on LED displays.
+A drug that makes you look at IR pixels on custom IR-LED displays.
